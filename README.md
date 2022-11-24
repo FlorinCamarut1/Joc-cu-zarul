@@ -1,6 +1,8 @@
 # Joc-cu-zarul
-Un joc creat in JS ---Testeaza-ti norocul
-Reguli:
+Un joc creat in JS
+---Testeaza-ti norocul----
+
+-- > Reguli:
 
 Jocul incepe cu jucatorul 1:
 -Cine ajunge la 100 puncte castiga.
