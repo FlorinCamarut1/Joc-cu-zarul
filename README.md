@@ -1,13 +1,15 @@
-# Joc-cu-zarul
-Un joc creat in JS
----Testeaza-ti norocul----
+Dice Game
+A game created in JavaScript
+--- Test your luck ---
 
--- > Reguli:
+-- > Rules:
 
-Jocul incepe cu jucatorul 1:
--Cine ajunge la 100 puncte castiga.
--Fiecare jucator va da cu zarul si va incerca sa adune puncte.
--Daca zarul indica 1, se va face switch la urmatorul player iar respectivul player pierde toate punctele cumulate.
--Poti alege sa pastrezi punctele pe care le-ai cumulat cu butonul hold, insa daca esti greedy si mai incerci sa dai cu zarul sa cumulezi mai mult poti pierde tot cum am spus mai sus.
--Este un joc simpu , creat in cadrul cursului de invatare Js pe care il urmez, good luck!! 
-PS: Este mai amuzant jucat in 2 :)
+The game starts with player 1:
+
+The first player to reach 100 points wins.
+Each player will roll the dice and try to accumulate points.
+If the dice shows 1, it will switch to the next player, and the current player loses all accumulated points.
+You can choose to keep the points you have accumulated with the "hold" button, but if you're greedy and try to roll the dice again to accumulate more, you can lose everything, as mentioned above.
+It's a simple game, created as part of the JavaScript learning course I'm following. Good luck!!
+PS: It's more fun when played with 2 players :)
+See the app deployed at : https://pig-game-florin.netlify.app
